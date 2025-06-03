@@ -1,0 +1,81 @@
+Word ,Condition,Frequency,Length
+Table,Target,238887,5
+Computer,Target,139082,8
+Cat,Target,58763,3
+Cup,Target,109915,3
+Father,Target,318173,6
+Arm,Target,161185,3
+Lion,Target,23871,4
+Burger,Target,11920,6
+Doctor,Target,163129,6
+school,Target,660191,6
+Paint,Target,23029,5
+money,Target,437583,5
+Shirt,Target,46579,5
+Clothes,Target,58660,7
+Blue,Target,22857,4
+Gift,Target,71372,4
+Happy,Target,170573,5
+christian,Target,16585,9
+Pen,Target,19160,3
+Cloud,Target,47140,5
+Chair,Related Prime,80186,5
+Laptop,Related Prime,15796,6
+Plate,Related Prime,50934,5
+Dog,Related Prime,144648,3
+Mother,Related Prime,348370,6
+Leg,Related Prime,95185,3
+Tiger,Related Prime,26334,5
+Steak,Related Prime,12124,5
+Lawyer,Related Prime,93526,6
+Class,Related Prime,219160,5
+Canvas,Related Prime,12570,6
+dollar,Related Prime,121984,6
+Sock,Related Prime,14170,4
+Cotton,Related Prime,16664,6
+Pink,Related Prime,30396,4
+Birthday,Related Prime,42727,8
+Sad,Related Prime,54041,3
+muslim,Related Prime,34226,6
+Paper,Related Prime,165070,5
+Sun,Related Prime,102043,3
+Water,Unrelated Prime,342574,5
+Bag,Unrelated Prime,90234,3
+picture,Unrelated Prime,165703,7
+energy,Unrelated Prime,164622,6
+arm,Unrelated Prime,161185,3
+Tree,Unrelated Prime,135666,4
+River,Unrelated Prime,100270,5
+Comic,Unrelated Prime,13245,5
+shuttle,Unrelated Prime,14163,7
+Page,Unrelated Prime,154863,4
+Bubble,Unrelated Prime,19365,6
+Toe,Unrelated Prime,19559,3
+Cow,Unrelated Prime,22660,3
+Sad,Unrelated Prime,54041,3
+Glass,Unrelated Prime,94803,5
+Bath,Unrelated Prime,15725,4
+director,Unrelated Prime,158028,8
+Prison,Unrelated Prime,71871,6
+Elevator,Unrelated Prime,17718,8
+Tube,Unrelated Prime,25647,4
+Salag,Non-Word,0,5
+Dret,Non-Word,0,4
+Plem,Non-Word,0,4
+Weft,Non-Word,0,4
+Pobra,Non-Word,0,5
+Yuba,Non-Word,0,4
+Cayum,Non-Word,0,5
+Binda,Non-Word,0,5
+Talo,Non-Word,0,4
+Molk,Non-Word,0,4
+Quap,Non-Word,0,4
+Neg,Non-Word,0,3
+Blet,Non-Word,0,4
+Kenpo,Non-Word,0,5
+Resta,Non-Word,0,5
+crilp,Non-Word,0,5
+ventry,Non-Word,0,6
+Solop,Non-Word,0,5
+Roap,Non-Word,0,4
+Motah,Non-Word,0,5
